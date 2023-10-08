@@ -21,12 +21,15 @@ Este projeto consiste em uma página da web que oferece as seguintes funcionalid
 - SweetAlert2 para notificações
 
 ## 🚀 Como Usar
-
-1. Abra o Arquivo index.html.
-2. Ajuste o tamanho da senha desejada usando o controle deslizante.
-3. Selecione as opções desejadas para incluir letras maiúsculas, minúsculas, números e caracteres especiais.
-4. Clique no botão "Gerar senha" para criar uma senha personalizada.
-5. Clique na senha gerada para copiá-la para a área de transferência.
+1. Clone o repositório:
+``` bash
+  git clone https://github.com/MatheusFreire7/GeradorSenha_Html.git
+```
+2. Abra o Arquivo index.html.
+3. Ajuste o tamanho da senha desejada usando o controle deslizante.
+4. Selecione as opções desejadas para incluir letras maiúsculas, minúsculas, números e caracteres especiais.
+5. Clique no botão "Gerar senha" para criar uma senha personalizada.
+6. Clique na senha gerada para copiá-la para a área de transferência.
 
 ## 📝 Licença
 
