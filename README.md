@@ -1,5 +1,7 @@
 # 🎉 Gerador de Senhas 🎉
 
+![projeto](https://github.com/MatheusFreire7/GeradorSenha_Html/assets/105430711/7d08f942-dff7-4239-a976-807cd93fe3bf)
+
 Bem-vindo ao Gerador de Senhas, uma ferramenta simples para criar senhas seguras e personalizáveis! Este projeto é uma aplicação da web que permite aos usuários criar senhas de acordo com suas preferências.
 
 ## 📜 Sobre o Projeto
