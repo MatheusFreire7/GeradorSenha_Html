@@ -35,6 +35,12 @@ Este projeto consiste em uma página da web que oferece as seguintes funcionalid
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
+## GitHub Pages
+
+Você pode acessar o projeto Pokedex Original com React no GitHub Pages:
+
+- [Acesse o Projeto Aqui](https://MatheusFreire7.github.io/GeradorSenha_Html/)
+  
 ---
 
 Espero que este Gerador de Senhas seja útil para você! 😃
